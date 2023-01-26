@@ -1,0 +1,9 @@
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\bin\Debug\KalkulatorPowierzchni.exe.config
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\bin\Debug\KalkulatorPowierzchni.exe
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\bin\Debug\KalkulatorPowierzchni.pdb
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\obj\Debug\KalkulatorPowierzchni.Form1.resources
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\obj\Debug\KalkulatorPowierzchni.Properties.Resources.resources
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\obj\Debug\KalkulatorPowierzchni.csproj.GenerateResource.cache
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\obj\Debug\KalkulatorPowierzchni.csproj.CoreCompileInputs.cache
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\obj\Debug\KalkulatorPowierzchni.exe
+D:\Programy Visual C#\KalkulatorPowierzchni\KalkulatorPowierzchni\obj\Debug\KalkulatorPowierzchni.pdb
